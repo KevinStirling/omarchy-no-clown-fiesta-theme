@@ -1,6 +1,11 @@
-@define-color selected-text #38404f;
+@define-color selected-text #7E97AB;
 @define-color text #E1E1E1;
 @define-color base #151515;
-@define-color border #E1E1E1;
+@define-color border #7E97AB;
 @define-color foreground #E1E1E1;
 @define-color background #151515;
+
+.box-wrapper {
+  border-radius: 20px;
+}
+
