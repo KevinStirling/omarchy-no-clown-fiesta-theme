@@ -17,7 +17,7 @@ Open Walker, SUPER+ALT+SPACE, navigate to: Install < Style < Theme
 
 Paste: CTRL+SHIFT+V, then press enter/return.
 ## Step 2 (optional)
-> !> [!NOTE]  This is only nessesary if your neovim config is using vim.pack as the package manager. If you are on LazyVim (omarchy default), you can skip this.
+> [!NOTE]  This is only nessesary if your neovim config is using vim.pack as the package manager. If you are on LazyVim (omarchy default), you can skip this.
 
 Running this in your terminal will auto detect the neovim package manager installation, and switch between the two theme files found in `/neovim`
 
