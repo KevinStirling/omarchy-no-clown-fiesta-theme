@@ -19,7 +19,5 @@ This is only nessesary if your neovim config is using vim.pack as the package ma
 
 Running this in your terminal will auto detect the neovim package manager installation, and switch between the two theme files found in `/neovim`
 
-`cd ~/.config/omarchy/themes/no_clown_fiesta/`
-`chmod +x install.sh`
-`./install.sh`
+`cd ~/.config/omarchy/themes/no_clown_fiesta/ && chmod +x install.sh && ./install.sh`
 
